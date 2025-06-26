@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(to right, #ff9a9e, #fad0c4)
+}
+
+div {
+    width: 400px;
+    height: 400px;
+    border: 1px solid #6a0572;
+    margin: auto;
+    border-radius: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+
+}
+
+button {
+    height: 50px;
+    width: 80px;
+    border-radius: 9%;
+    font-weight: lighter;
+    font-size: medium;
+    background-color: #6a0572;
+    color: white;
+}
+
+h3 {
+    color: #6a0572;
+}
